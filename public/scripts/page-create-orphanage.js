@@ -96,5 +96,14 @@ function toggleSelect(event){
     
     
     
-
+function validate(event) {
+/*
+    const needlatelng = true;
+    IF(needlatelng){
+    //validar se lat e lng esao preenchidos
+    event.preventDefault()
+    alert('selecione um ponto no mapa')
+    }
+    */
+}
 
